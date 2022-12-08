@@ -1,0 +1,10 @@
+.precio-item {
+  padding-left: 2rem;
+  font-size: 30px;
+  background-color: green;
+  border-radius: 10px;
+  color: white;
+  display: flex;
+ justify-content: center;
+ margin-left: 150px;
+}
